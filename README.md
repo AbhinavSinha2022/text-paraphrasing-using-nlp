@@ -247,18 +247,4 @@ TBD
  <li> Some command style input phrases generate less adequate paraphrases</li>
 </ul>
 
-## References
-TBD
 
-## Citation
-
-To cite Parrot in your work, please use the following bibtex reference:
-
-```bibtex
-@misc{prithivida2021parrot,
-  author       = {Prithiviraj Damodaran},
-  title        = {Parrot: Paraphrase generation for NLU.},
-  year         = 2021,
-  version      = {v1.0}
-}
-```
